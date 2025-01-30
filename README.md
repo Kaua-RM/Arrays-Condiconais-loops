@@ -7,3 +7,5 @@ Imagine que você precisa armazenar várias informações de um mesmo tipo , seg
 
 
 ### Condicionais 
+
+As estruturas Condicionais , são ferramentas que mudam o caminho/fluxo do sistema, por que ? Pois elas são estruturas que fazem o sistema realizar decisões por meio das informações colocadas pelo usuario. As estruturas de condição encontradas no Java são IF/ELSE (Se/Senão) e Switch/Case(Faça/Caso).
