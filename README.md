@@ -52,5 +52,8 @@ break
 }
 
 // o break informa que o código para naquela linha , ele pode ser usado em if e else e todas as outras condições.
+```
+
+### Loops - Estruturas de repetição
 
 ```
